@@ -12,25 +12,19 @@ namespace BcgCodingChallenge.Controllers
     [Route("api/[controller]")]
     public class WatchController : Controller
     {
-        [HttpGet("checkout")]
-        public ActionResult GetTotalCost(List<string> watches)
+        [HttpPost("checkout")]
+        public JsonResult GetTotalCost([FromBody] List<string> watches)
         {
             /*
-             [
-            "001",
-            "002",
-            "001",
-            "004",
-            "003",
-            "001",
-            "001",
-            "001",
-            "007",
-            "002",
-            "002",
-            ]
+             ["001","002","001","004","003","001","001","001","007","002","002"]
              */
-
+            if(watches is null || watches.Count==0)
+            {
+                //error
+                return Json("Watch cart is empty");
+            }
+            else
+            { 
             double totalCost = 0;
             Dictionary<string, int> watchCart = new Dictionary<string, int>();
             foreach (string watch in watches)
@@ -77,7 +71,8 @@ namespace BcgCodingChallenge.Controllers
                 }
 
             }
-            return null;
+            return Json(new { price = totalCost });
+            }
         }
     }
 }
