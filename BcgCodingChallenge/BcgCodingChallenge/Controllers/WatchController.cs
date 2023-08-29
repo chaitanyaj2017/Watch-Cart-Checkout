@@ -25,13 +25,7 @@ namespace BcgCodingChallenge.Controllers
         {
             /*
              ["001","002","001","004","003","001","001","001","007","002","002"]
-             */
-            if (watches is null || watches.Count == 0)
-            {
-                return Json("Watch cart is empty. Please add some items to the cart");
-            }
-            else
-            {
+             */         
                 string result;
                 if (watchRepository.GetTotalCostFromCart(watches, out result))
                 {
@@ -40,8 +34,7 @@ namespace BcgCodingChallenge.Controllers
                 else
                 {
                     return Json(new { price = Convert.ToDouble(result) });
-                }
-            }               
+                }                         
         }
     }
 }

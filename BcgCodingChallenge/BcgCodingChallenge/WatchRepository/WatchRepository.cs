@@ -12,7 +12,11 @@ namespace BcgCodingChallenge.WatchRepository
             decimal totalCost = 0;            
             try
             {
-                
+                if(watches is null || watches.Count == 0)
+                {
+                    result = "Watch cart is empty. Please add some items to the cart";
+                    return true;
+                }
                 Dictionary<string, int> watchCart = WatchHelper.PopualateCart(watches);
 
                 foreach (var item in watchCart)
@@ -23,7 +27,7 @@ namespace BcgCodingChallenge.WatchRepository
                     }
                     else
                     {
-                        result = "invalid item in cart!";
+                        result = "Invalid item in cart!";
                         return true;
                     }
                     
