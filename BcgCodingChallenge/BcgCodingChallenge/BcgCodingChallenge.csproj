@@ -14,9 +14,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="WatchHelper\" />
+    <None Remove="WatchRepository\" />
+    <None Remove="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="WatchHelper\" />
+    <Folder Include="WatchRepository\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 </Project>
