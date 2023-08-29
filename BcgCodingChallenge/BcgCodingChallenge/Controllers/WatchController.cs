@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BcgCodingChallenge.WatchHelper;
+
 using BcgCodingChallenge.WatchRepository;
 using Microsoft.AspNetCore.Mvc;
 

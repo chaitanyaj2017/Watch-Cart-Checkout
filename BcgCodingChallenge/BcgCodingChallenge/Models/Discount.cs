@@ -1,11 +1,11 @@
 ﻿using System;
-namespace BcgCodingChallenge.WatchHelper
+namespace BcgCodingChallenge.Models
 {
 	public class Discount
 	{
 		public int DiscountQuantity { get; set; }
 
-		public double DiscountPrice { get; set; }
+		public decimal DiscountPrice { get; set; }
 
 		public Discount()
 		{

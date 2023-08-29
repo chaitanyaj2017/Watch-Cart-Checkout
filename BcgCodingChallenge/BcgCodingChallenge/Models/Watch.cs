@@ -1,5 +1,5 @@
 ﻿using System;
-namespace BcgCodingChallenge.WatchHelper
+namespace BcgCodingChallenge.Models
 {
 	
         public class Watch
@@ -14,7 +14,7 @@ namespace BcgCodingChallenge.WatchHelper
 
             public Discount? Discount { get; set; }
 
-            public double UnitPrice { get; set; }
+            public decimal UnitPrice { get; set; }
 
         }
    
