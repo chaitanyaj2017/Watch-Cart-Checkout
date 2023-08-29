@@ -1,0 +1,13 @@
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/BcgCodingChallenge.deps.json
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/BcgCodingChallenge.runtimeconfig.json
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/appsettings.Development.json
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/appsettings.json
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/BcgCodingChallenge
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/BcgCodingChallenge.dll
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/Swashbuckle.AspNetCore.Swagger.dll
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/bin/Debug/BcgCodingChallenge.pdb
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/obj/Debug/docker-compose.dcproj.CopyComplete
