@@ -27,7 +27,7 @@ namespace BcgCodingChallenge.WatchRepository
                     }
                     else
                     {
-                        result = "Invalid item in cart!";
+                        result = $"Invalid item {item.Key} in cart!";
                         return true;
                     }
                     

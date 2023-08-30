@@ -41,7 +41,7 @@ namespace UnitTestProject
         [TestMethod]
         public void Test_Invalid_watch_id_throws_error()
         {
-            string expectedMessage = "Invalid item in cart!";
+            string expectedMessage = "Invalid item 007 in cart!";
             List<string> watches = new List<string>() { "007", "002", "001", "004", "003" };
             string result;
 
