@@ -19,7 +19,7 @@ services:
       ASPNETCORE_URLS: https://+:443;http://+:80
       DOTNET_USE_POLLING_FILE_WATCHER: "1"
       NUGET_FALLBACK_PACKAGES: ""
-    image: bcgcodingchallenge:dev
+    image: chaitanyaj2018/bcg_docker:dev
     labels:
       com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net7.0/BcgCodingChallenge.dll"'
       com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof

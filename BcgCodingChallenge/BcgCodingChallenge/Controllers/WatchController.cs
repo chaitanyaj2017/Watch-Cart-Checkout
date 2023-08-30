@@ -29,6 +29,7 @@ namespace BcgCodingChallenge.Controllers
                 string result;
                 if (watchRepository.GetTotalCostFromCart(watches, out result))
                 {
+                
                     return Json(result);
                 }
                 else

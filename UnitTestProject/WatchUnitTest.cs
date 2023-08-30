@@ -14,7 +14,7 @@ namespace UnitTestProject
         }
 
 		[TestMethod]
-		public void CheckCostisCorrect()
+		public void Test_Calculated_TotalCost_Is_Correct()
 		{
 			decimal expectedtotalCost = 360;
             string result;
@@ -26,7 +26,7 @@ namespace UnitTestProject
 		}
 
 		[TestMethod]
-		public void Test_Empty_Cart_Throws_Error()
+		public void Test_Empty_Cart_Prompts_User()
 		{
 			//decimal expectedtotalCost = 360;
 			string expectedMessage = "Watch cart is empty. Please add some items to the cart";
@@ -39,7 +39,7 @@ namespace UnitTestProject
         }
 
         [TestMethod]
-        public void Test_Invalid_watch_id_throws_error()
+        public void Test_Invalid_Watch_Id_Throws_Error()
         {
             string expectedMessage = "Invalid item 007 in cart!";
             List<string> watches = new List<string>() { "007", "002", "001", "004", "003" };
@@ -49,7 +49,7 @@ namespace UnitTestProject
             Assert.AreEqual(expectedMessage, result);
         }
         [TestMethod]
-        public void Test_Multiple_discounts_work()
+        public void Test_Multiple_discounts_applied()
         {
             decimal expectedtotalCost = 500;
             string result;

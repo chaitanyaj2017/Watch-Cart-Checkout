@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   bcgcodingchallenge:
-    image: bcgcodingchallenge:dev
+    image: chaitanyaj2018/bcg_docker:dev
     container_name: BcgCodingChallenge
     build:
       target: base

@@ -7,7 +7,7 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_URLS: https://+:443;http://+:80
-    image: bcgcodingchallenge
+    image: chaitanyaj2018/bcg_docker:latest
     networks:
       default: null
     ports:

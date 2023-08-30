@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   bcgcodingchallenge:
-    image: ${DOCKER_REGISTRY-}bcgcodingchallenge
+    image: chaitanyaj2018/bcg_docker:latest
     build:
       context: .
       dockerfile: BcgCodingChallenge/Dockerfile
