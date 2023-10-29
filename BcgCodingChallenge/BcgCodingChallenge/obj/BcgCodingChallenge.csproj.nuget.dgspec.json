@@ -26,7 +26,14 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/WatchCart.BL.csproj": {
+                "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/WatchCart.BL.csproj"
+              },
+              "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCartIBLL/WatchCart.IBLL.csproj": {
+                "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCartIBLL/WatchCart.IBLL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -41,7 +48,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.13, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -63,6 +70,266 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/WatchCart.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/WatchCart.BL.csproj",
+        "projectName": "WatchCart.BL",
+        "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/WatchCart.BL.csproj",
+        "packagesPath": "/Users/chaitanyajoshi/.nuget/packages/",
+        "outputPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chaitanyajoshi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Data/WatchCart.Data.csproj": {
+                "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Data/WatchCart.Data.csproj"
+              },
+              "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/WatchCart.Model.csproj": {
+                "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/WatchCart.Model.csproj"
+              },
+              "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCartIBLL/WatchCart.IBLL.csproj": {
+                "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCartIBLL/WatchCart.IBLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Data/WatchCart.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Data/WatchCart.Data.csproj",
+        "projectName": "WatchCart.Data",
+        "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Data/WatchCart.Data.csproj",
+        "packagesPath": "/Users/chaitanyajoshi/.nuget/packages/",
+        "outputPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chaitanyajoshi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/WatchCart.Model.csproj": {
+                "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/WatchCart.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/WatchCart.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/WatchCart.Model.csproj",
+        "projectName": "WatchCart.Model",
+        "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/WatchCart.Model.csproj",
+        "packagesPath": "/Users/chaitanyajoshi/.nuget/packages/",
+        "outputPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chaitanyajoshi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCartIBLL/WatchCart.IBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCartIBLL/WatchCart.IBLL.csproj",
+        "projectName": "WatchCart.IBLL",
+        "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCartIBLL/WatchCart.IBLL.csproj",
+        "packagesPath": "/Users/chaitanyajoshi/.nuget/packages/",
+        "outputPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCartIBLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chaitanyajoshi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

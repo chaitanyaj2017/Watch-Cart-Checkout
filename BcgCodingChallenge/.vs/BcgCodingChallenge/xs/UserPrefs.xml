@@ -1,6 +1,55 @@
 ﻿<Properties StartupConfiguration="{1FA1B176-52B9-44D7-B3C2-6CDF29150F0C}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BcgCodingChallenge/WatchHelper.cs">
+    <Files>
+      <File FileName="BcgCodingChallenge/Controllers/WatchController.cs" Line="32" Column="17" />
+      <File FileName="BcgCodingChallenge/WatchHelper/Watch.cs" Line="17" Column="27" />
+      <File FileName="BcgCodingChallenge/WatchHelper/Discount.cs" Line="17" Column="1" />
+      <File FileName="BcgCodingChallenge/Program.cs" Line="15" Column="40" />
+      <File FileName="BcgCodingChallenge/WatchRepository/IWatchRepository.cs" Line="6" Column="74" />
+      <File FileName="BcgCodingChallenge/WatchRepository/WatchRepository.cs" Line="30" Column="60" />
+      <File FileName="BcgCodingChallenge/WatchHelper.cs" Line="13" Column="32" />
+      <File FileName="BcgCodingChallenge/Dockerfile" Line="1" Column="1" />
+      <File FileName=".dockerignore" Line="1" Column="1" />
+      <File FileName="docker-compose.yml" Line="5" Column="44" />
+      <File FileName="docker-compose.override.yml" Line="13" Column="55" />
+      <File FileName="../UnitTestProject/Usings.cs" Line="1" Column="1" />
+      <File FileName="../UnitTestProject/WatchUnitTest.cs" Line="11" Column="4" />
+      <File FileName="BcgCodingChallenge/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BcgCodingChallenge" expanded="True">
+            <Node name="BcgCodingChallenge" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="WatchRepository" expanded="True" />
+            </Node>
+            <Node name="docker-compose" expanded="True" selected="True">
+              <Node name="docker-compose.yml" expanded="True" />
+            </Node>
+            <Node name="UnitTestProject" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.BcgCodingChallenge PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.UnitTestProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
