@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BcgCodingChallenge", "BcgCodingChallenge\BcgCodingChallenge.csproj", "{1FA1B176-52B9-44D7-B3C2-6CDF29150F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "..\UnitTestProject\UnitTestProject.csproj", "{19888D6C-B68D-4E44-80C6-9284754F43B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchCart.IBLL", "..\WatchCartIBLL\WatchCart.IBLL.csproj", "{EEB991C3-E80C-4A87-AAF4-254646532DF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchCart.BL", "..\WatchBL\WatchCart.BL.csproj", "{79CB1C0D-C594-427C-8AE5-05DCE2B1F54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchCart.Model", "..\WatchCart.Model\WatchCart.Model.csproj", "{6093D129-4642-4CC8-9DD0-8E2AE67FED6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchCart.Data", "..\WatchCart.Data\WatchCart.Data.csproj", "{B26D87FB-29D2-41BB-A22E-50656D1C9F3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F35CD28-7F35-433D-BFDC-8FF4435862D8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA1B176-52B9-44D7-B3C2-6CDF29150F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA1B176-52B9-44D7-B3C2-6CDF29150F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA1B176-52B9-44D7-B3C2-6CDF29150F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA1B176-52B9-44D7-B3C2-6CDF29150F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19888D6C-B68D-4E44-80C6-9284754F43B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19888D6C-B68D-4E44-80C6-9284754F43B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19888D6C-B68D-4E44-80C6-9284754F43B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19888D6C-B68D-4E44-80C6-9284754F43B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB991C3-E80C-4A87-AAF4-254646532DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB991C3-E80C-4A87-AAF4-254646532DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB991C3-E80C-4A87-AAF4-254646532DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB991C3-E80C-4A87-AAF4-254646532DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CB1C0D-C594-427C-8AE5-05DCE2B1F54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CB1C0D-C594-427C-8AE5-05DCE2B1F54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CB1C0D-C594-427C-8AE5-05DCE2B1F54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CB1C0D-C594-427C-8AE5-05DCE2B1F54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6093D129-4642-4CC8-9DD0-8E2AE67FED6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6093D129-4642-4CC8-9DD0-8E2AE67FED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6093D129-4642-4CC8-9DD0-8E2AE67FED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6093D129-4642-4CC8-9DD0-8E2AE67FED6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26D87FB-29D2-41BB-A22E-50656D1C9F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26D87FB-29D2-41BB-A22E-50656D1C9F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26D87FB-29D2-41BB-A22E-50656D1C9F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26D87FB-29D2-41BB-A22E-50656D1C9F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {107C0D3D-465E-495D-BE09-D4F6561B5D85}
+	EndGlobalSection
+EndGlobal

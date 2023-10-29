@@ -1,0 +1,12 @@
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/bin/Debug/net7.0/WatchCart.Model.deps.json
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/bin/Debug/net7.0/WatchCart.Model.dll
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/bin/Debug/net7.0/WatchCart.Model.pdb
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/WatchCart.Model.csproj.AssemblyReference.cache
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/WatchCart.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/WatchCart.Model.AssemblyInfoInputs.cache
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/WatchCart.Model.AssemblyInfo.cs
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/WatchCart.Model.csproj.CoreCompileInputs.cache
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/WatchCart.Model.dll
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/refint/WatchCart.Model.dll
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/WatchCart.Model.pdb
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchCart.Model/obj/Debug/net7.0/ref/WatchCart.Model.dll

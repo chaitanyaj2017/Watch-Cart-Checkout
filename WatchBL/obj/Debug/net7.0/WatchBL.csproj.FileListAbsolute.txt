@@ -1,0 +1,5 @@
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/obj/Debug/net7.0/WatchBL.csproj.AssemblyReference.cache
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/obj/Debug/net7.0/WatchBL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/obj/Debug/net7.0/WatchBL.AssemblyInfoInputs.cache
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/obj/Debug/net7.0/WatchBL.AssemblyInfo.cs
+/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/WatchBL/obj/Debug/net7.0/WatchBL.csproj.CoreCompileInputs.cache

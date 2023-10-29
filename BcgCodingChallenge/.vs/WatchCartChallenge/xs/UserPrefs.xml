@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1FA1B176-52B9-44D7-B3C2-6CDF29150F0C}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BcgCodingChallenge PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>../UnitTestProject/UnitTestProject.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BcgCodingChallenge/WatchHelper.cs">
+    <Files>
+      <File FileName="BcgCodingChallenge/Controllers/WatchController.cs" />
+      <File FileName="BcgCodingChallenge/Program.cs" />
+      <File FileName="BcgCodingChallenge/WatchRepository/IWatchRepository.cs" />
+      <File FileName="BcgCodingChallenge/WatchRepository/WatchRepository.cs" />
+      <File FileName="BcgCodingChallenge/WatchHelper.cs" Line="13" Column="32" />
+      <File FileName="BcgCodingChallenge/Dockerfile" />
+      <File FileName=".dockerignore" />
+      <File FileName="docker-compose.yml" />
+      <File FileName="docker-compose.override.yml" />
+      <File FileName="../UnitTestProject/Usings.cs" />
+      <File FileName="../UnitTestProject/WatchUnitTest.cs" />
+      <File FileName="BcgCodingChallenge/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,4 +1,7 @@
-﻿using BcgCodingChallenge.WatchRepository;
+﻿//using BcgCodingChallenge.WatchRepository;
+
+using WatchCart.BL;
+using WatchCart.IBLL;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +12,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IWatchRepository, WatchRepository>();
+
+//builder.Services.AddScoped<IWatchRepository, WatchRepository>();
+builder.Services.AddScoped<IWatchCart, WatchCartRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

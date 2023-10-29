@@ -18,5 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BcgCodingChallenge\BcgCodingChallenge\BcgCodingChallenge.csproj" />
+    <ProjectReference Include="..\WatchCartIBLL\WatchCartIBLL.csproj" />
   </ItemGroup>
 </Project>
