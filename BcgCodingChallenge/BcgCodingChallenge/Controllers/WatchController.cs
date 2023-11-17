@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 
 using Microsoft.AspNetCore.Mvc;
+using WatchCart.Data.Watchcartchallenge;
 using WatchCart.IBLL;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -19,9 +20,9 @@ namespace BcgCodingChallenge.Controllers
         public WatchController(IWatchCart watchCart)
         {
             this.watchCart = watchCart;
+           
         }
 
-                                     
         [HttpGet("health")]
         public JsonResult GetHealth()
         {

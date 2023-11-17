@@ -1,33 +1,58 @@
 ﻿<Properties StartupConfiguration="{1FA1B176-52B9-44D7-B3C2-6CDF29150F0C}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.BcgCodingChallenge PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
-  <DisabledProjects>
-    <String>../UnitTestProject/UnitTestProject.csproj</String>
-  </DisabledProjects>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BcgCodingChallenge/WatchHelper.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../WatchBL/WatchCartRepository.cs">
     <Files>
-      <File FileName="BcgCodingChallenge/Controllers/WatchController.cs" />
-      <File FileName="BcgCodingChallenge/Program.cs" />
-      <File FileName="BcgCodingChallenge/WatchRepository/IWatchRepository.cs" />
-      <File FileName="BcgCodingChallenge/WatchRepository/WatchRepository.cs" />
-      <File FileName="BcgCodingChallenge/WatchHelper.cs" Line="13" Column="32" />
-      <File FileName="BcgCodingChallenge/Dockerfile" />
-      <File FileName=".dockerignore" />
-      <File FileName="docker-compose.yml" />
-      <File FileName="docker-compose.override.yml" />
+      <File FileName="BcgCodingChallenge/Controllers/WatchController.cs" Line="38" Column="33" />
+      <File FileName="BcgCodingChallenge/Program.cs" Line="18" Column="27" />
+      <File FileName="BcgCodingChallenge/WatchRepository/IWatchRepository.cs" Line="9" Column="1" />
+      <File FileName="BcgCodingChallenge/WatchHelper.cs" Line="58" Column="58" />
       <File FileName="../UnitTestProject/Usings.cs" />
-      <File FileName="../UnitTestProject/WatchUnitTest.cs" />
-      <File FileName="BcgCodingChallenge/appsettings.json" />
+      <File FileName="../UnitTestProject/WatchUnitTest.cs" Line="9" Column="26" />
+      <File FileName="BcgCodingChallenge/appsettings.json" Line="10" Column="10" />
+      <File FileName="../WatchBL/WatchCart.cs" Line="16" Column="21" />
+      <File FileName="../WatchCart.Model/Watch.cs" Line="29" Column="1" />
+      <File FileName="../WatchCart.Model/Discount.cs" Line="16" Column="1" />
+      <File FileName="BcgCodingChallenge/Models/Discount.cs" Line="13" Column="4" />
+      <File FileName="../../../../../../../../usr/local/share/dotnet/sdk/7.0.307/Microsoft.Common.CurrentVersion.targets" Line="2116" Column="5" />
+      <File FileName="../WatchCart.Data/Watchcartchallenge/WatchcartchallengeContext.cs" Line="12" Column="1" />
+      <File FileName="../WatchCart.Data/Watchcartchallenge/Discount.cs" Line="7" Column="2" />
+      <File FileName="../WatchCart.Data/Watchcartchallenge/Watch.cs" Line="16" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="WatchCartChallenge">
+            <Node name="BcgCodingChallenge" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="WatchCart.BL" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="WatchCart.Data" expanded="True" />
+            <Node name="WatchCart.IBLL" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WatchCart.Model" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>../UnitTestProject/UnitTestProject.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WatchCartCheckoutWebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
