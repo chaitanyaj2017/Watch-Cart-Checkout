@@ -5917,9 +5917,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/BcgCodingChallenge/BcgCodingChallenge.csproj",
-      "projectName": "BcgCodingChallenge",
-      "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/BcgCodingChallenge/BcgCodingChallenge.csproj",
+      "projectUniqueName": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/BcgCodingChallenge/WatchCartCheckoutWebApi.csproj",
+      "projectName": "WatchCartCheckoutWebApi",
+      "projectPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/BcgCodingChallenge/WatchCartCheckoutWebApi.csproj",
       "packagesPath": "/Users/chaitanyajoshi/.nuget/packages/",
       "outputPath": "/Users/chaitanyajoshi/Desktop/sfafwegw/cj/bcgx_test/bcgx-checkout-api/BcgCodingChallenge/BcgCodingChallenge/obj/",
       "projectStyle": "PackageReference",
