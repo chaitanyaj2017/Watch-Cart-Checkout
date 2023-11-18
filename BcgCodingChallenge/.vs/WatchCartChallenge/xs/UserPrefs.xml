@@ -50,9 +50,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <DisabledProjects>
-    <String>../UnitTestProject/UnitTestProject.csproj</String>
-  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.UnitTestProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.WatchCartCheckoutWebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
